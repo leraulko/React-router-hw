@@ -1,0 +1,17 @@
+.photospage {
+    background: #ff9a86ab;
+    padding-bottom: 15px;
+}
+
+.photos-grid  {
+    max-width: 1250px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin: 15px auto;
+}
+
+.photos-grid > img {
+    width: 100%;
+}
