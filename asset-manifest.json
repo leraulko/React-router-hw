@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-router-hw/static/css/main.e5a6f084.css",
+    "main.js": "/React-router-hw/static/js/main.303f25f6.js",
+    "static/js/787.4fd71a10.chunk.js": "/React-router-hw/static/js/787.4fd71a10.chunk.js",
+    "static/media/mountainbg.png": "/React-router-hw/static/media/mountainbg.b4e7593bf39cdc3d6ea3.png",
+    "static/media/Content1.jpg": "/React-router-hw/static/media/Content1.5cba868839ba9d827d04.jpg",
+    "static/media/Chart1.jpg": "/React-router-hw/static/media/Chart1.abe0f973598440f2e282.jpg",
+    "static/media/Cover1.jpg": "/React-router-hw/static/media/Cover1.4bfd5f98e720fae20869.jpg",
+    "static/media/Content2.png": "/React-router-hw/static/media/Content2.4c5c02abc8c5caf1d941.png",
+    "static/media/Cover2.png": "/React-router-hw/static/media/Cover2.84736d7aff7bde7217b4.png",
+    "static/media/Thanks.png": "/React-router-hw/static/media/Thanks.2223410242d66428c9f0.png",
+    "index.html": "/React-router-hw/index.html",
+    "main.e5a6f084.css.map": "/React-router-hw/static/css/main.e5a6f084.css.map",
+    "main.303f25f6.js.map": "/React-router-hw/static/js/main.303f25f6.js.map",
+    "787.4fd71a10.chunk.js.map": "/React-router-hw/static/js/787.4fd71a10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a6f084.css",
+    "static/js/main.303f25f6.js"
+  ]
+}
