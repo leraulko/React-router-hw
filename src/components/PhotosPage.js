@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "./Header";
 import '../styles/PhotosPage.css';
 import photo1 from '../assets/Cover1.jpg';
 import photo2 from '../assets/Chart1.jpg';
@@ -11,7 +10,7 @@ import photo6 from '../assets/Thanks.png';
 export default function PhotosPage() {
     return (
         <div className="photospage">
-            <Header />
+            
             <div className="photos-grid">
                 <img src={photo1} alt="photo1"/>
                 <img src={photo2} alt="photo2" />

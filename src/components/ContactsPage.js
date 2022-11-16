@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Contact from './Contact';
 import '../styles/ContactsPage.css';
-import Header from './Header';
 
 
 export default function ContactsPage() {
@@ -64,7 +63,6 @@ export default function ContactsPage() {
 
     return (
         <div className='contacts-container'>
-            <Header />
         <div className='contacts-page'>
             <div className='contacts-book'>
                     <h1>Контакти</h1>
